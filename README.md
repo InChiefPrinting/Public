@@ -231,7 +231,7 @@ Public repo for informations of InChief
 ---
 
 ## 📎 附件与关联文档索引
-- `营业执照.pdf`  
+- `营业执照.pdf`
 - `设备清单.xlsx`  
 - `主要客户名录.md`  
 - `报价体系.md`
